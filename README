@@ -1,8 +1,13 @@
 Title: Wormhole 
-Desc: Ajax data save without leaving the page in jQuery and PHP
+Desc: Ajax data save in jQuery and PHP
 Author: Ryan Carter (fabld on github.com)
 
-This little page is simplistic and not super complicated for a reason. When you need a simple, quick and dirty way to save data without leaving the page, this is a way to do it. It is not the best way for sure. It has been incredibly useful for me, so I wanted to share.
+This little project is simplistic and not super complicated for a reason. When you need a simple, quick and dirty way to save data without leaving the page, this is a way to do it. It is not the best way for sure. It has been incredibly useful for me, so I wanted to share.
+
+index.php is the main page, it is all just jQuery, so you could use it in ASP.NET, html, php, or a number of other languages.
+
+it calls ajax.php and sends it some data, which is in HTTP GET format, so you grab that and slam dunk it into the database and pass back results or a status message to index via echos (in PHP).
+
 
 Have fun!
 
