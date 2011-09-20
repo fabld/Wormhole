@@ -1,0 +1,9 @@
+Title: Wormhole 
+Desc: Ajax data save without leaving the page in jQuery and PHP
+Author: Ryan Carter (fabld on github.com)
+
+This little page is simplistic and not super complicated for a reason. When you need a simple, quick and dirty way to save data without leaving the page, this is a way to do it. It is not the best way for sure. It has been incredibly useful for me, so I wanted to share.
+
+Have fun!
+
+_ryan
